@@ -9,3 +9,4 @@ LICENSE
 R
 content/**/**html
 content/*/*html
+.Rproj.user/*
