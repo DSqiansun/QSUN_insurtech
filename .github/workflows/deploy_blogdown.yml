@@ -45,6 +45,6 @@ jobs:
      - name: Deploy to GitHub Pages
        uses: Cecilapp/GitHub-Pages-deploy@master
        env:
-          EMAIL: ${{ EMAIL }}               # must be a verified email
-          GH_TOKEN: ${{ TOKEN }} # https://github.com/settings/tokens
+          EMAIL: ${{EMAIL}}               # must be a verified email
+          GH_TOKEN: ${{TOKEN}} # https://github.com/settings/tokens
           BUILD_DIR: public/                     # "_site/" by default
