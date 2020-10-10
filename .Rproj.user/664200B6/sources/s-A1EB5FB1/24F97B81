@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1602362547635.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "4018815851",
+    "id" : "24F97B81",
+    "lastKnownWriteTime" : 1585411661,
+    "last_content_update" : 1585411661,
+    "path" : "D:/Projets/QSUN_insurtech/.github/.gitignore",
+    "project_path" : ".github/.gitignore",
+    "properties" : {
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "gitignore"
+}
