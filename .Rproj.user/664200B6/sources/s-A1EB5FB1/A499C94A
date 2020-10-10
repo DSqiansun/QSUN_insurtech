@@ -7,13 +7,13 @@
     "folds" : "",
     "hash" : "0",
     "id" : "A499C94A",
-    "lastKnownWriteTime" : 1602362889,
-    "last_content_update" : 1602362889412,
+    "lastKnownWriteTime" : 1602363571,
+    "last_content_update" : 1602363571437,
     "path" : "D:/Projets/QSUN_insurtech/.github/workflows/deploy_blogdown.yml",
     "project_path" : ".github/workflows/deploy_blogdown.yml",
     "properties" : {
-        "cursorPosition" : "3,13",
-        "scrollLine" : "0"
+        "cursorPosition" : "46,11",
+        "scrollLine" : "19"
     },
     "read_only" : false,
     "read_only_alternatives" : [
