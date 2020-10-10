@@ -1,4 +1,5 @@
-baseURL = "https://dsqiansun.github.io/QSUN_insurtech/"
+#baseURL = "https://dsqiansun.github.io/QSUN_insurtech/"
+baseURL = "https://localhost:1313"
 languageCode = "en"
 defaultContentLanguage = "en"                             # en / zh-cn / ... (This field determines which i18n file to use)
 title = "qsun insurtech"
@@ -131,13 +132,13 @@ copyright = ""            # default: author.name ↓        # 默认为下面配
     warn = 180              # Display warning if the last modified time is more than these days ago.    # 如果文章最后更新于这天数之前，显示警告
 
   [params.gitment]          # Gitment is a comment system based on GitHub issues. see https://github.com/imsun/gitment
-    owner = "DSqiansun"              # Your GitHub ID
-    repo = "QSUN_insurtech _commet"               # The repo to store comments
-    clientId = "569e57d846614c54dea5"           # Your client ID
-    clientSecret = "8d89a042b2a0dcd0e9c4b85ec1a9a1c124f329b5"       # Your client secret
+    owner = ""              # Your GitHub ID
+    repo = ""               # The repo to store comments
+    clientId = ""           # Your client ID
+    clientSecret = ""       # Your client secret
 
   [params.utterances]       # https://utteranc.es/
-    owner = "DSqiansun"              # Your GitHub ID
+    owner = ""              # Your GitHub ID
     repo = ""               # The repo to store comments
 
   [params.gitalk]           # Gitalk is a comment system based on GitHub issues. see https://github.com/gitalk/gitalk

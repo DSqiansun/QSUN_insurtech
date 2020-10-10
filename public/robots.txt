@@ -1,2 +1,2 @@
 User-agent: *
-Sitemap: /QSUN_insurtech/sitemap.xml
+Sitemap: /sitemap.xml

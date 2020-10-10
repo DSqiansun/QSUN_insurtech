@@ -1,27 +1,27 @@
-<?xml-stylesheet type="text/xsl" href="/QSUN_insurtech/sitemap.xsl"?>
+<?xml-stylesheet type="text/xsl" href="/sitemap.xsl"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>/QSUN_insurtech/about/</loc>
+    <loc>/about/</loc>
     <lastmod>2020-10-11T21:41:52+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>/QSUN_insurtech/categories/</loc>
+    <loc>/categories/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>/QSUN_insurtech/</loc>
+    <loc>/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>/QSUN_insurtech/tags/</loc>
+    <loc>/tags/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
