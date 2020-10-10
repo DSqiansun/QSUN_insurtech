@@ -1,2 +1,2 @@
 User-agent: *
-Sitemap: https://dsqiansun.github.io/QSUN_insurtech/sitemap.xml
+Sitemap: https://localhost:1313/sitemap.xml
