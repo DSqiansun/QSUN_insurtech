@@ -5,14 +5,27 @@
     <link>/QSUN_insurtech/</link>
     <description>Recent content on qsun insurtech</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="/QSUN_insurtech/index.xml" rel="self" type="application/rss+xml" />
+    <language>fr</language>
+    <lastBuildDate>Sun, 11 Oct 2020 00:00:00 +0000</lastBuildDate><atom:link href="/QSUN_insurtech/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About</title>
       <link>/QSUN_insurtech/about/</link>
       <pubDate>Sun, 11 Oct 2020 21:38:52 +0800</pubDate>
       
       <guid>/QSUN_insurtech/about/</guid>
-      <description></description>
+      <description>Qian SUN 孙潜 Email: sunqianben@gmail.com</description>
+    </item>
+    
+    <item>
+      <title>Vocabulaires de l&#39;assurance</title>
+      <link>/QSUN_insurtech/post/vocabulaires-de-l-assurance/</link>
+      <pubDate>Sun, 11 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/QSUN_insurtech/post/vocabulaires-de-l-assurance/</guid>
+      <description>&lt;script src=&#34;webfont.js&#34;&gt;&lt;/script&gt;
+&lt;script src=&#34;snap.svg-min.js&#34;&gt;&lt;/script&gt;
+&lt;script src=&#34;underscore-min.js&#34;&gt;&lt;/script&gt;
+&lt;script src=&#34;sequence-diagram-min.js&#34;&gt;&lt;/script&gt;</description>
     </item>
     
   </channel>
