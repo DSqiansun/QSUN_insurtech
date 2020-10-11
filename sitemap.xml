@@ -2,19 +2,50 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://dsqiansun.github.io/QSUN_insurtech/tags/assurance/</loc>
+    <lastmod>2020-10-11T00:29:49+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://dsqiansun.github.io/QSUN_insurtech/categories/assurance/</loc>
+    <lastmod>2020-10-11T00:29:49+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://dsqiansun.github.io/QSUN_insurtech/categories/</loc>
+    <lastmod>2020-10-11T00:29:49+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://dsqiansun.github.io/QSUN_insurtech/post/</loc>
+    <lastmod>2020-10-11T00:29:49+02:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://dsqiansun.github.io/QSUN_insurtech/</loc>
+    <lastmod>2020-10-11T00:29:49+02:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://dsqiansun.github.io/QSUN_insurtech/tags/</loc>
+    <lastmod>2020-10-11T00:29:49+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://dsqiansun.github.io/QSUN_insurtech/post/vocabulaires-de-l-assurance/</loc>
+    <lastmod>2020-10-11T00:29:49+02:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
